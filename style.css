@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+}
+html{
+  background-color: rgb(29, 29, 29);
+}
+body {
+  width: 100%;
+  text-align: center;
+}
+#centerContainer {
+  height: 1080px;
+  width: 800px;
+  text-align: left;
+  margin: 0px auto;
+  background-color: white;
+}
+.bg-title {
+
+  color: rgb(230, 229, 229);
+  height: 5rem;
+  position: relative;
+  background-image: url("pattern.png");
+  background-position: top;
+  background-size: 20rem;
+  background-color: rgb(90, 163, 228);
+}
+.bg-logo{
+  padding-top: 5%;
+  width: 20%;
+}
+/* .the {
+  
+  padding-top: 25px;
+  position: relative;
+  left: 2%;
+  top: 10px;
+} */
