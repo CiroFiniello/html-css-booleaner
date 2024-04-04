@@ -1,7 +1,7 @@
 * {
   margin: 0;
 }
-html{
+html {
   background-color: rgb(29, 29, 29);
 }
 body {
@@ -16,8 +16,6 @@ body {
   background-color: white;
 }
 .bg-title {
-
-  color: rgb(230, 229, 229);
   height: 5rem;
   position: relative;
   background-image: url("pattern.png");
@@ -25,14 +23,54 @@ body {
   background-size: 20rem;
   background-color: rgb(90, 163, 228);
 }
-.bg-logo{
+.bg-logo {
   padding-top: 5%;
   width: 20%;
 }
-/* .the {
-  
-  padding-top: 25px;
+.art-title{
+  padding-top: 10px;
+  padding-left: 5px;
+}
+p > span{
+color: aqua;
+}
+.img-main{
+  display: inline;
+  max-width: 200px;
+}
+#tim1{
+  max-width: 400px;
+}
+#tim2{
+  max-width: 350px;
+}
+.lorem-bg-yllw{
+   
+  background-color: yellow;
+}
+.ul-lorem{
+  padding-top: 15px;
+}
+.tb{
   position: relative;
-  left: 2%;
-  top: 10px;
-} */
+}
+th {
+  background-color: #0481aa;
+  color: white;
+}
+th, td {
+  position: relative;
+  top: 25px;
+  padding: 5px;
+  text-align: left;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #00fff7;
+}  
+.lst-lrn{
+  padding-left:  3px;;
+  padding-top: 50px;
+}
+
+
