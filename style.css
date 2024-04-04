@@ -9,7 +9,7 @@ body {
   text-align: center;
 }
 #centerContainer {
-  height: 1080px;
+  height: 100%;
   width: 800px;
   text-align: left;
   margin: 0px auto;
@@ -72,5 +72,11 @@ tbody tr:nth-child(odd) {
   padding-left:  3px;;
   padding-top: 50px;
 }
-
+.footer-cnt{
+  position: relative;
+  color: #00fff7;
+}
+#txt-lrn{
+  position: absolute;
+}
 
